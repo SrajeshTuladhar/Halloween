@@ -5,6 +5,7 @@
   </div>
 </template>
 
+ <!-- test  -->
 <script>
 export default {
   name: 'HelloWorld',
